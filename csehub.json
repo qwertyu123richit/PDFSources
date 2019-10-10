@@ -7,27 +7,27 @@
             "topic_name": "Programming Languages",
             "subjects": [
                 {
-                    "book_name": "C++ Complete Reference by Herbert Schildt",
+                    "book_name": "C++ Complete Reference bby Herbert Schildt",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQysrX0NvbXBsZXRlX1JlZmVyZW5jZV8uXzNyZF9FZF8uX2J5X3NjaGlsZHQucGRm"
                 },
                 {
-                    "book_name": "C++ Language Tutorial by Juan Soulie",
+                    "book_name": "C++ Language Tutorial bby Juan Soulie",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQytfdHV0b3JpYWxfYnlfU291bGllLnBkZg=="
                 },
                 {
-                    "book_name": "Java The Complete Reference(10th edition) by Herbert Schildt",
+                    "book_name": "Java The Complete Reference(10th edition) bby Herbert Schildt",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvSmF2YV9UaGVfQ29tcGxldGVfUmVmZXJlbmNlXzEwdGhfRWRpdGlvbl9ieV9TY2hpbGR0LnBkZg=="
                 },
                 {
-                    "book_name": "A Practical Introduction to Python Programming by Brian Heinold",
+                    "book_name": "A Practical Introduction to Python Programming bby Brian Heinold",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQV9QcmFjdGljYWxfSW50cm9kdWN0aW9uX3RvX1B5dGhvbl9Qcm9ncmFtbWluZ19IZWlub2xkLnBkZg=="
                 },
                 {
-                    "book_name": "Fundamentals of Python Programming by Richard L.Halterman",
+                    "book_name": "Fundamentals of Python Programming bby Richard L.Halterman",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvcHl0aG9uYm9vay5wZGY="
                 },
                 {
-                    "book_name": "JavaScript by Example by Ellie Quigley",
+                    "book_name": "JavaScript by Example bby Ellie Quigley",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvSmF2YXNjcmlwdF9CeV9FeGFtcGxlX1NlY29uZF9FZGl0aW9uX0J5X0VsbGllX1F1aWdsZXkucGRm"
                 }
 
@@ -37,37 +37,33 @@
             "topic_name": "Artificial Intelligence",
             "subjects": [
                 {
-                    "book_name": "Artificial Intelligence - A modern approach by Russel & Norvig",
+                    "book_name": "Artificial Intelligence - A modern approach bby Russel & Norvig",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQXJ0aWZpY2lhbF9JbnRlbGxpZ2VuY2VfQV9Nb2Rlcm5fQXBwcm9hY2gucGRm"
                 },
                 {
-                    "book_name": "History of Artificial Intellignece",
+                    "book_name": "History of Artificial Intellignece bby Maad M.Mijwel",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvSGlzdG9yeV9vZl9BcnRpZmljaWFsSW50ZWxsaWdlbmNlLnBkZg=="
                 },
                 {
-                    "book_name": "Artificial Intellignece - A New Synthesis by Nils.J.Nilsson",
+                    "book_name": "Artificial Intellignece - A New Synthesis bby Nils.J.Nilsson",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTmlsc19KX05pbHNzb24tQXJ0aWZpY2lhbF9JbnRlbGxpZ2VuY2VfLkFfTmV3X1N5bnRoZXNpcy5wZGY="
-                },
-                {
-                    "book_name": "Turbo Prolog",
-                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvVHVyYm9fUHJvbG9nX093bmVyc19IYW5kYm9vay5wZGY="
                 }
-
+               
             ]
         },
         {
             "topic_name": "Competitive Programming",
             "subjects": [
                 {
-                    "book_name": "Art of Programming Contest",
+                    "book_name": "Art of Programming Contest bby Ahmed Shamsul Arefin",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQXJ0X29mX1Byb2dyYW1taW5nX0NvbnRlc3RfU0VfZm9yX3V2YS5wZGY="
                 },
                 {
-                    "book_name": "Competitive Programmers Handbook",
+                    "book_name": "Competitive Programmers Handbook bby Anti Laaksonen",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQ29tcGV0aXRpdmVQcm9ncmFtbWVyc0hhbmRib29rLnBkZg=="
                 },
                 {
-                    "book_name": "Graph Theory by Wilson",
+                    "book_name": "Graph Theory bby Robin J. Wilson",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvR3JhcGhfdGhlb3J5X2J5X3dpbHNvbi5wZGY="
                 }
             ]
@@ -76,11 +72,11 @@
             "topic_name": "Database",
             "subjects": [
                 {
-                    "book_name": "Database Management System by Raghu RamaKrishnan & Johannes Gehrke",
+                    "book_name": "Database Management System bby Raghu RamaKrishnan & Johannes Gehrke",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvRGF0YWJhc2VfTWFuYWdlbWVudF9TeXN0ZW1zXzJuZF9FZC5wZGY="
                 },
                 {
-                    "book_name": "MySQL 4th Edition by Paul DuBois",
+                    "book_name": "MySQL 4th Edition bby Paul DuBois",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTXlzcWxfNHRoX2VkaXRpb25fYnlfUGF1bF9EdUJvaXMucGRm"
                 }
                 
@@ -90,19 +86,19 @@
             "topic_name": "Machine Learning",
             "subjects": [
                 {
-                    "book_name": "Python Machine Learning by Sebastian Raschka",
+                    "book_name": "Python Machine Learning bby Sebastian Raschka",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvUHl0aG9uX01hY2hpbmVfTGVhcm5pbmcucGRm"
                 },
                 {
-                    "book_name": "Data Mining Concepts and Techniques by Jiawei Han,Micheline Kamber and Jian Pei",
+                    "book_name": "Data Mining Concepts and Techniques bby Jiawei Han,Micheline Kamber and Jian Pei",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvRGF0YS1NaW5pbmcuLUNvbmNlcHRzLWFuZC1UZWNobmlxdWVzLTNyZC1FZGl0aW9uLWJ5LUppYXdlaS1IYW4tTWljaGVsaW5lLUthbWJlci1KaWFuLVBlaS5wZGY="
                 },
                 {
-                    "book_name": "Machine Learning for Hackers by Drew Conway and John Myles White",
+                    "book_name": "Machine Learning for Hackers bby Drew Conway and John Myles White",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTWFjaGluZS5MZWFybmluZy5mb3IuSGFja2Vyc18uQ2FzZS5TdHVkaWVzLmFuZC5BbGdvcml0aG1zLnRvLkdldC5Zb3UuU3RhcnRlZC5Db253YXkuV2hpdGUuMjAxMi0wMi0yNS5wZGY="
                 },
                 {
-                    "book_name": "Mastering Java Machine Learning by Dr Uday Kamath and Krishna Choppella",
+                    "book_name": "Mastering Java Machine Learning bby Dr Uday Kamath and Krishna Choppella",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTWFzdGVyaW5nX0phdmFfTWFjaGluZV9MZWFybmluZy5wZGY="
                 }
                 
@@ -112,15 +108,15 @@
             "topic_name": "Web",
             "subjects": [
                 {
-                    "book_name": "Learning PHP,MYSQL,Javascript & CSS by Robin Nixon",
+                    "book_name": "Learning PHP,MYSQL,Javascript & CSS bby Robin Nixon",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTGVhcm5pbmdfUEhQX015U1FMX0phdmFTY3JpcHRfYW5kX0NTU18ybmRfRWRpdGlvbi5wZGY="
                 },
                 {
-                    "book_name": "PHP,MySql,Javascript & HTML5 for Dummies by Steve Suehring & Janet Valade",
+                    "book_name": "PHP,MySql,Javascript & HTML5 for Dummies bby Steve Suehring & Janet Valade",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvcGhwX215c3FsX2phdmFzY3JpcHRfaHRtbDVfYWxsX2luX29uZV9mb3JfZHVtbWllcy5wZGY="
                 },
                 {
-                    "book_name": "Learning Laravel",
+                    "book_name": "Learning Laravel bby StackOverflow Contributors",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvbGFyYXZlbC5wZGY="
                 }
                 
@@ -130,11 +126,11 @@
             "topic_name": "Others",
             "subjects": [
                 {
-                    "book_name": "Discrete Mathematics and it's applications by Kenneth H.Rosen",
+                    "book_name": "Discrete Mathematics and it's applications bby Kenneth H.Rosen",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvRGlzY3JldGVfTWF0aGVtYXRpY3NfYW5kX2l0c19hcHBsaWNhdGlvbnMucGRm"
                 },
                 {
-                    "book_name": "Mathematics for Computer Science",
+                    "book_name": "Mathematics for Computer Science bby Eric Lehman, F Thomson Leighton & Albert R Meyer",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTWF0aGVtYXRpY3NfZm9yX2NvbXB1dGVyX3NjaWVuY2UucGRm"
                 }
                 
