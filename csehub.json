@@ -47,6 +47,34 @@
                 {
                     "book_name": "Artificial Intellignece - A New Synthesis bby Nils.J.Nilsson",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTmlsc19KX05pbHNzb24tQXJ0aWZpY2lhbF9JbnRlbGxpZ2VuY2VfLkFfTmV3X1N5bnRoZXNpcy5wZGY="
+                },
+                {
+                    "book_name": "Advanced Artificial Intelligence bby Zhongzhi SHI",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQWR2YW5jZWRfQXJ0aWZpY2lhbF9JbnRlbGxpZ2VuY2UucGRm"
+                },
+                {
+                    "book_name": "Applications of Prolog bby Attila Csenki",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvYXBwbGljYXRpb25zX29mX3Byb2xvZy5wZGY="
+                },
+                {
+                    "book_name": "Artificial Intelligence For Advanced Problem Solving Techniques bby Dimitris Vrakas & Ioannis PL.Vlahavas",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQXJ0aWZpY2lhbF9JbnRlbGxpZ2VuY2VfZm9yX0FkdmFuY2VkX1Byb2JsZW0ucGRm"
+                },
+                {
+                    "book_name": "Artificial Intelligence bby George F Luger",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvYXJ0aWZpY2lhbF9pbnRlbGxpZ2VuY2Vfc3RydWN0dXJlc19hbmRfc3RyYXRlZ2llcy5wZGY="
+                },
+                {
+                    "book_name": "Encyclopedia of Artificial Intelligence bby Juan Ramón Rabuñal Dopico, Julián Dorado de la Calle & Alejandro Pazos Sierra",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvZW5jeWNsb3BlZGlhX29mX2FydGlmaWNpYWxfaW50ZWxsaWdlbmNlLnBkZg=="
+                },
+                {
+                    "book_name": "Learn Prolog Now bby Patrick Blackburn, Johan Bos & Kristina Striegnitz",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTGVhcm5fcHJvbG9nX25vdy5wZGY="
+                },
+                {
+                    "book_name": "SWI-Prolog 5.6 bby Jan Wielemaker",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvVHVyYm9fUHJvbG9nX093bmVyc19IYW5kYm9vay5wZGY="
                 }
                
             ]
@@ -65,6 +93,34 @@
                 {
                     "book_name": "Graph Theory bby Robin J. Wilson",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvR3JhcGhfdGhlb3J5X2J5X3dpbHNvbi5wZGY="
+                },
+                {
+                    "book_name": "Algorithm Design bby Jon Kleinberg & Eva Tardos",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQWxnb3JpdGhtX0Rlc2lnbi5wZGY="
+                },
+                {
+                    "book_name": "Competitive Programming 3 bby Steven Halim & Felix Halim",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQ29tcGV0aXRpdmVfUHJvZ3JhbW1pbmdfMy5wZGY="
+                },
+                {
+                    "book_name": "Computational Geometry bby Mark de Berg, Otfried Cheong, Marc van Kreveld & Mark Overmars ",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQ29tcHV0YXRpb25hbF9HZW9tZXRyeS5wZGY="
+                },
+                {
+                    "book_name": "Concrete Mathematics bby Ronald L. Graham, Donald E. Knuth & Oren Patashnik",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQ29uY3JldGVfTWF0aGVtYXRpY3NfMmUucGRm"
+                },
+                {
+                    "book_name": "Introduction to Algorithms bby Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvaW50cm9kdWN0aW9uX3RvX2FsZ29yaXRobXMucGRm"
+                },
+                {
+                    "book_name": "PROGRAMMING CHALLENGES bby Steven S. Skiena & Miguel A. Revilla",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvUHJvZ3JhbW1pbmdfQ2hhbGxlbmdlcy5wZGY="
+                },
+                {
+                    "book_name": "The Algorithm Design Manual bby Steven S. Skiena",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvU2tpZW5hX1RoZV9BbGdvcml0aG1fRGVzaWduX01hbnVhbC5wZGY="
                 }
             ]
         },
@@ -78,6 +134,18 @@
                 {
                     "book_name": "MySQL 4th Edition bby Paul DuBois",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTXlzcWxfNHRoX2VkaXRpb25fYnlfUGF1bF9EdUJvaXMucGRm"
+                },
+                {
+                    "book_name": "Advanced SQL Database Programmers Handbook bby Donald K. Burleson, Joe Celko, John Paul Cook & Peter Gulutzan",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQWR2YW5jZWRfU1FMX0RhdGFiYXNlX1Byb2dyYW1tZXJzX0hhbmRib29rLnBkZg=="
+                },
+                {
+                    "book_name": "Databases for beginners bby Marek Kręglewski",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvRGF0YWJhc2VzX2Zvcl9iZWdpbm5lcnMucGRm"
+                },
+                {
+                    "book_name": "SQL Tutorial bby Tutorials Point",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvU1FMX3R1dG9yaWFsLnBkZg=="
                 }
                 
             ]
@@ -100,6 +168,22 @@
                 {
                     "book_name": "Mastering Java Machine Learning bby Dr Uday Kamath and Krishna Choppella",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTWFzdGVyaW5nX0phdmFfTWFjaGluZV9MZWFybmluZy5wZGY="
+                },
+                {
+                    "book_name": "Bioinformatics: The Machine Learning Approach bby Pierre Baldi and Søren Brunak",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQmlvaW5mb3JtYXRpY3NfVGhlX01hY2hpbmVfbGVhcm5pbmdfYXBwcm9hY2gucGRm"
+                },
+                {
+                    "book_name": "Machine Learning: A Probabilistic Perspective bby Kevin P. Murphy",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvbWFjaGluZV9sZWFybmluZ19hX3Byb2JhYmlsaXN0aWNfcGVyc3BlY3RpdmUucGRm"
+                },
+                {
+                    "book_name": "Semi-Supervised Learning bby Olivier Chapelle, Bernhard Scholkopf & Alexander Zien",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvU2VtaV9TdXBlcnZpc2VkX2xlYXJuaW5nLnBkZg=="
+                },
+                {
+                    "book_name": "The Minimum Description Length Principle bby Peter D. Grünwald",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvdGhlX21pbmltdW1fZGVzY3JpcHRpb25fbGVuZ3RoX3ByaW5jaXBhbC5wZGY="
                 }
                 
             ]
@@ -132,6 +216,30 @@
                 {
                     "book_name": "Mathematics for Computer Science bby Eric Lehman, F Thomson Leighton & Albert R Meyer",
                     "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTWF0aGVtYXRpY3NfZm9yX2NvbXB1dGVyX3NjaWVuY2UucGRm"
+                },
+                {
+                    "book_name": "Compiler design  in C bby Allen I. Holub",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvY29tcGlsZXJfRGVzaWduX0luX0MucGRm"
+                },
+                {
+                    "book_name": "An Introduction to Computer Networks bby Peter L Dordal",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvQ29tcHV0ZXJfTmV0d29ya3MucGRm"
+                },
+                {
+                    "book_name": "Linear Algebra and Linear Models bby Prof. R.B. Bapat",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvTGluZWFyX2FsZ2VicmFfYW5kX2xpbmVhcl9tb2RlbHMucGRm"
+                },
+                {
+                    "book_name": "Learning Node.js bby Stackoverfow",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvbm9kZV9qcy5wZGY="
+                },
+                {
+                    "book_name": "Probability by Leo Breiman",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvcHJvYmFiaWxpdHkucGRm"
+                },
+                {
+                    "book_name": "Understanding Computational Bayesian Statistics bby William M. Bolstad",
+                    "link": "aHR0cHM6Ly9naXRodWIuY29tL3F3ZXJ0eXUxMjNyaWNoaXQvUERGU291cmNlcy9yZWxlYXNlcy9kb3dubG9hZC9QREYvdW5kZXJzdGFuZGluZ19jb21wdXRhdGlvbmFsX2JheWVzaWFuX3N0YXRpc3RpY3MucGRm"
                 }
                 
             ]
